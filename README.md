@@ -18,4 +18,11 @@
 
 敬请期待 :D
 
+------------
 
+**MegEngine 团队部分成员的猫主子，友情镇场**  //小鱼干已结清
+
+<img src="https://github.com/MegEngine/MegCat/blob/main/Cats%20Images/%E5%88%98%E5%B0%8F%E8%8A%B1%E5%92%8C%E7%8E%8B%E5%B0%8F%E8%83%96.jpg" width="50%">
+<img src="https://github.com/MegEngine/MegCat/blob/main/Cats%20Images/%E5%AF%8C%E8%B4%B5.jpg" width="50%">
+<img src="https://github.com/MegEngine/MegCat/blob/main/Cats%20Images/%E6%98%A5%E8%8A%B1.jpg" width="50%">
+<img src="https://github.com/MegEngine/MegCat/blob/main/Cats%20Images/%E8%99%8E%E5%B0%8F%E5%A6%B9.jpeg" width="50%">
